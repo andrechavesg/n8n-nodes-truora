@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Placeholder icon for the Truora node. You can replace this with a
+       custom logo. -->
+  <rect width="64" height="64" fill="#00B2A9" rx="8"/>
+  <text x="32" y="38" font-family="Arial, sans-serif" font-size="28" fill="#fff" text-anchor="middle">T</text>
+</svg>
